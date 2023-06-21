@@ -1,1 +1,43 @@
+<h1>Ahmet Özdemircik</h1>
+<h3>Hakkımda</h3>
+<p>
+Merhaba ben Ahmet Özdemircik! Adana'da yaşıyorum.Turizm İşletmeciliği Mezunuyum.Web geliştirme ile ilgileniyorum. Kodluyoruz'un bu eğitim serisi sayesinde harika şeyler öğrendim ve öğrenmeye devam ediyorum! Siz de aramıza katılın!
+</p>
+
+<h2>İlgi Alanlarım</h2>
+<div>
+<ol>
+<li>Filmler
+    <ul>
+        <li><a href="https://www.imdb.com/title/tt1375666/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_Incep" target="_blank">Inception</a></li>
+        <li>The Batman</li>
+        <li>Leon</li>
+    </ul>
+</ol>
+
+<ol>
+<li>Diziler
+    <ul>
+        <li><a href="https://www.imdb.com/title/tt2707408/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_narcos" target="_blank">Narcos</a></li>
+        <li>The Walking Dead</li>
+        <li>Breaking Bad</li>
+    </ul>
+</li>
+</ol>
+
+<ol>
+    <li>Kitaplar
+        <ul>
+            <li><a href="https://www.kitapyurdu.com/kitap/seker-portakali-ciltsiz/10139.html" target="_blank">Şeker Portakalı</a></li>
+            <li>Bir Ömür Nasıl Yaşanır?</li>
+            <li>Kürk Mantolu Madonna</li>
+        </ul>
+    </li>
+</ol>
+</div>
+
+<h2>Sevdiğim Diziler</h2> <!-- Resim olarak görseli eklendi-->
+<hr>
+<h3>Narcos</h3>
+<img width="400" height="250" src="images/narcos.jpeg" alt="">
 
